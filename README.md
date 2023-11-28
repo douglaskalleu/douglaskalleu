@@ -1,16 +1,17 @@
 ## Douglas Kalleu
-<strong>Eterno aprendiz</strong>
+<strong>Always learning</strong>
 
-Sou apaixonado por programação.
+💬 Ask me about everything, I like this and I really try help you
 <br />
-Software Developer :computer:
+:computer: Software Developer since 2017
 <br />
-Analise e Desenvolvimento de Sistemas
+👨‍🎓 System analysis and development
+<br />
+👷 I'm currently FullStack developer 
 <br />
 
-<br/> :black_heart: &nbsp; Busco coloaborar com tudo que sei sobre tecnologia.
-<br/> :computer: &nbsp; Minha stack: C#, Delphi, TypeScript, Angular, Js
-<br/> 💬  &nbsp; Paixão: meus filhos, tecnologia, jiu jitus, esportes
+<br/> :black_heart: &nbsp; I collaborete with everything about technology.
+<br/> 💬  &nbsp; Love It: my kids, technology, jiu jitus, sports
 
 ## SKILLS
  
